@@ -61,5 +61,6 @@ git clone https://github.com/AngeLouCN/CaraNet
 
 ## Segmentation Results
 + Polyp Segmentation Results
-<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/polyp_seg.jpg" width="800" height="650" alt="Result"/></div>
+<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/polyp_seg.jpg" width="800" height="650" alt="Result"/></div>\\
+
 <div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/result_table.jpg" width="800" height="650" alt="Result"/></div>
