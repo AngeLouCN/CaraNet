@@ -30,11 +30,27 @@ conda install opencv-python pillow numpy matplotlib
 git clone https://github.com/AngeLouCN/CaraNet
 ```
 ### Training
-  +Download the training and texting dataset from this link: [Experiment Dataset](https://drive.google.com/file/d/17Cs2JhKOKwt4usiAYJVJMnXfyZWySn3s/view?usp=sharing)
-
-  +Change the --train_path & --test_path in Train.py
-
-  +Run ```Train.py```
-
+  + Download the training and texting dataset from this link: [Experiment Dataset](https://drive.google.com/file/d/17Cs2JhKOKwt4usiAYJVJMnXfyZWySn3s/view?usp=sharing)
+  + Change the --train_path & --test_path in Train.py
+  + Run ```Train.py```
+  + Testing dataset is ordered as follow:
+```
+|-- TestDataset
+|   |-- CVC-300
+|   |   |-- images
+|   |   `-- masks
+|   |-- CVC-ClinicDB
+|   |   |-- images
+|   |   `-- masks
+|   |-- CVC-ColonDB
+|   |   |-- images
+|   |   `-- masks
+|   |-- ETIS-LaribPolypDB
+|   |   |-- images
+|   |   `-- masks
+|   `-- Kvasir
+|       |-- images
+|       `-- masks
+```
 ### Testing
 (1) Change the data_path in Test.py
