@@ -35,3 +35,6 @@ git clone https://github.com/AngeLouCN/CaraNet
 (2) Change the --train_path & --test_path in Train.py
 
 (3) Run ```Train.py```
+
+### Testing
+(1) Change the data_path in Test.py
