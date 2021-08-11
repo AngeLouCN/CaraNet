@@ -16,9 +16,9 @@ We choose our CFP module as context module, and choose the dilation rate is **8*
 As shown in architecture of CaraNet, the Axial Reverse Attention (A-RA) module contains two routes: 1) Reverse attention; 2) Axial-attention.
 
 ## Installation
+### Enviroment
 - Enviroment: Python 3.6;
 - Install some packages:
-
 ```
 conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
 ```
@@ -29,4 +29,5 @@ conda install opencv-python pillow numpy matplotlib
 ```
 git clone https://github.com/AngeLouCN/CaraNet
 ```
-
+### Training
+(1) Download the training and texting dataset from this link: [URL](https://drive.google.com/file/d/17Cs2JhKOKwt4usiAYJVJMnXfyZWySn3s/view?usp=sharing)
