@@ -38,19 +38,19 @@ git clone https://github.com/AngeLouCN/CaraNet
 |-- TestDataset
 |   |-- CVC-300
 |   |   |-- images
-|   |   `-- masks
+|   |   |-- masks
 |   |-- CVC-ClinicDB
 |   |   |-- images
-|   |   `-- masks
+|   |   |-- masks
 |   |-- CVC-ColonDB
 |   |   |-- images
-|   |   `-- masks
+|   |   |-- masks
 |   |-- ETIS-LaribPolypDB
 |   |   |-- images
-|   |   `-- masks
-|   `-- Kvasir
+|   |   |-- masks
+|   |-- Kvasir
 |       |-- images
-|       `-- masks
+|       |-- masks
 ```
 ### Testing
   + Change the data_path in Test.py
