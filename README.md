@@ -15,7 +15,7 @@ We choose our CFP module as context module, and choose the dilation rate is **8*
 ### Axial Reverse Attention
 As shown in architecture of CaraNet, the Axial Reverse Attention (A-RA) module contains two routes: 1) Reverse attention; 2) Axial-attention.
 
-## Installation
+## Installation & Usage
 ### Enviroment
 - Enviroment: Python 3.6;
 - Install some packages:
@@ -53,4 +53,11 @@ git clone https://github.com/AngeLouCN/CaraNet
 |       `-- masks
 ```
 ### Testing
-(1) Change the data_path in Test.py
+  + Change the data_path in Test.py
+### Evaluation 
+  + Change the image_root and gt_root in eval_Kvasir.py
+  + You can also run the matlab code in eval fold, it contains other four measurement metrics results.
+  + **Our segmentation results will coming sonn!**
+
+## Segmentation Results
+
