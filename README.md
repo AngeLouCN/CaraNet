@@ -33,3 +33,5 @@ git clone https://github.com/AngeLouCN/CaraNet
 (1) Download the training and texting dataset from this link: [Experiment Dataset](https://drive.google.com/file/d/17Cs2JhKOKwt4usiAYJVJMnXfyZWySn3s/view?usp=sharing)
 
 (2) Change the --train_path & --test_path in Train.py
+
+(3) Run ```Train.py```
