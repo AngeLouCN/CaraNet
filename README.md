@@ -23,7 +23,7 @@ As shown in architecture of CaraNet, the Axial Reverse Attention (A-RA) module c
 conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
 ```
 ```
-pip install opencv-python pillow numpy matplotlib
+conda install opencv-python pillow numpy matplotlib
 ```
 - Clone this repository
 ```
