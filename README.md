@@ -66,4 +66,7 @@ git clone https://github.com/AngeLouCN/CaraNet
 <div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/result_table.jpg" width="800" height="650" alt="Result"/></div>
 
 + Brain Tumor Segmentation Results
+
 **coming soon!**
+
+## Citation
