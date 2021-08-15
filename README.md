@@ -69,7 +69,7 @@ git clone https://github.com/AngeLouCN/CaraNet
 
 | Kvasir | CVC-ClinicDB |
 | :---: | :---: |
-|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/Kvasir.jpg" width="300" height="275" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ClinicDB.jpg" width="300" height="275" alt="Result"/></div>|
+|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/Kvasir.jpg" width="150" height="150" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ClinicDB.jpg" width="150" height="150" alt="Result"/></div>|
 
 + Brain Tumor Segmentation Results
 
