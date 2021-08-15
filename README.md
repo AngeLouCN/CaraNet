@@ -75,6 +75,6 @@ The x-axis is the proportion size (%) of polyp; y-axis is the average mean dice 
 
 + Brain Tumor Segmentation Results
 
-**coming soon!**
+
 
 ## Citation
