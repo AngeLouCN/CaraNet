@@ -67,6 +67,8 @@ git clone https://github.com/AngeLouCN/CaraNet
 
 + Small polyp analysis
 
+The x-axis is the proportion size (%) of polyp; y-axis is the average mean dice coefficient.
+
 | Kvasir | CVC-ClinicDB | CVC-ColonDB | ETIS | CVC-300 |
 | :---: | :---: | :---: | :---: | :---: |
 |<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/Kvasir.jpg" width="150" height="150" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ClinicDB.jpg" width="150" height="150" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ColonDB.jpg" width="150" height="150" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ETIS.jpg" width="150" height="150" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/CVC-300.jpg" width="150" height="150" alt="Result"/></div>|
