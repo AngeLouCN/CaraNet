@@ -82,3 +82,11 @@ The x-axis is the proportion size (%) of polyp; y-axis is the average mean dice 
 <div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/BraTS_dice.jpg" width="600" height="300" alt="Result"/></div>
 
 ## Citation
+```
+@article{lou2021cfpnet,
+  title={CFPNet: Channel-wise Feature Pyramid for Real-Time Semantic Segmentation},
+  author={Lou, Ange and Loew, Murray},
+  journal={arXiv preprint arXiv:2103.12212},
+  year={2021}
+}
+```
