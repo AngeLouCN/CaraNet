@@ -9,8 +9,7 @@ This repository contains the implementation of a novel attention based network (
 We use **Res2Net** as our backbone.
 
 ### Context module
-We choose our CFP module as context module, and choose the dilation rate is **8**. For the details of CFP module you can find here: [CFPNet](https://arxiv.org/ftp/arxiv/papers/2103/2103.12212.pdf)
-The architecture of **CFP module** as shown in following figure:
+We choose our CFP module as context module, and choose the dilation rate is **8**. For the details of CFP module you can find here: [CFPNet](https://arxiv.org/ftp/arxiv/papers/2103/2103.12212.pdf). The architecture of **CFP module** as shown in following figure:
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet/blob/main/figures/cfp module.png" width="800" height="300" alt="Result"/></div>
 
 ### Axial Reverse Attention
