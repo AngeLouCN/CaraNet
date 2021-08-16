@@ -59,7 +59,6 @@ git clone https://github.com/AngeLouCN/CaraNet
   + You can also run the matlab code in eval fold, it contains other four measurement metrics results.
   + You can download the segmentation maps of CaraNte from this link: [CaraNet](https://drive.google.com/drive/folders/1nk9PDDYCTyfgyztq80vzQ2f4-TwNwR7m?usp=sharing)
   
-
 ## Segmentation Results
 + Polyp Segmentation Results
 <div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/polyp_seg.jpg" width="800" height="650" alt="Result"/></div>
