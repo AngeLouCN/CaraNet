@@ -107,7 +107,7 @@ For very small areas (<1%):
 <div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/Brain_Tumor.png" width="600" alt="Result"/></div>
 
 The difference between results of CaraNet and PraNet:
-<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/BraTS_dice.png" width="600" height="300" alt="Result"/></div>
+<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/BraTS_dice.png" width="600" alt="Result"/></div>
 
 ## Citation
 ```
