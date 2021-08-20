@@ -92,6 +92,7 @@ The x-axis is the proportion size (%) of polyp; y-axis is the average mean dice 
 <div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/BraTS.jpg" width="600" height="115" alt="Result"/></div>
 
 + Small tumor analysis
+For very small areas (<1%):
 <div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/Brain_Tumor.png" width="600" height="350" alt="Result"/></div>
 
 The difference between results of CaraNet and PraNet:
