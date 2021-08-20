@@ -90,12 +90,13 @@ The x-axis is the proportion size (%) of polyp; y-axis is the average mean dice 
 <div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ETIS.png" width="600"  alt="Result"/></div>
 <div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/CVC-300.png" width="600" alt="Result"/></div>
 
-+ Brain Tumor Segmentation Results
++ Brain Tumor Segmentation
 
 | BraTS input | Segmentation truth |
 | :---: | :---: |
 |<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/brain_input.gif" width="240" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/brain_seg.gif" width="240" alt="Result"/></div>|
 
+Results:
 <div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/BraTS.jpg" width="600" height="115" alt="Result"/></div>
 
 + Small tumor analysis
