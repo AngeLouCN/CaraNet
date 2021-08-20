@@ -72,7 +72,7 @@ git clone https://github.com/AngeLouCN/CaraNet
 <div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/polyp_seg.jpg" width="800" height="650" alt="Result"/></div>
 
 + Conditions of test datasets:
-<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/testconditions.PNG" alt="Result"/></div>
+<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/testconditions.PNG" width="800" alt="Result"/></div>
 
 <div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/result_table.jpg" width="800" height="650" alt="Result"/></div>
 
@@ -84,11 +84,11 @@ The x-axis is the proportion size (%) of polyp; y-axis is the average mean dice 
 | :---: | :---: | :---: | :---: | :---: |
 |<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/Kvasir.jpg" width="150" height="150" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ClinicDB.jpg" width="150" height="150" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ColonDB.jpg" width="150" height="150" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ETIS.jpg" width="150" height="150" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/CVC-300.jpg" width="150" height="150" alt="Result"/></div>|
 -->
-<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/Kvasir.png" width="600" height="300" alt="Result"/></div>
-<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ClinicDB.png" width="600" height="300" alt="Result"/></div>
-<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ColonDB.png" width="600" height="300" alt="Result"/></div>
-<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ETIS.png" width="600" height="300" alt="Result"/></div>
-<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/CVC-300.png" width="600" height="300" alt="Result"/></div>
+<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/Kvasir.png" width="600"  alt="Result"/></div>
+<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ClinicDB.png" width="600"  alt="Result"/></div>
+<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ColonDB.png" width="600"  alt="Result"/></div>
+<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/ETIS.png" width="600"  alt="Result"/></div>
+<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/CVC-300.png" width="600" alt="Result"/></div>
 
 + Brain Tumor Segmentation Results
 
@@ -97,7 +97,7 @@ The x-axis is the proportion size (%) of polyp; y-axis is the average mean dice 
 + Small tumor analysis
 
 For very small areas (<1%):
-<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/Brain_Tumor.png" width="600" height="350" alt="Result"/></div>
+<div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/Brain_Tumor.png" width="600" alt="Result"/></div>
 
 The difference between results of CaraNet and PraNet:
 <div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/BraTS_dice.png" width="600" height="300" alt="Result"/></div>
