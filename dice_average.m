@@ -7,6 +7,12 @@
 % output: averaged area ratios, averaged dice values, 
 %         standard deviation of dice
 
+%% Note: the arrays AreaR and Dice should have the **same length**. 
+## For i-th case, AreaR(i) is the area ratio (see code comments for its computation) of objects
+## in the image of i-th segmented ground truth (the binary label), 
+## Dice(i) is the Dice coefficient computed by using the i-th predicted segmentation result
+## and its ground truth. bin_width depends on the distribution of AreaR.
+
 function [mean_areaR, mean_dice, std_dice] = local_average(AreaR, Dice, bin_width)
 
 if nargin<3
