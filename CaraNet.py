@@ -99,7 +99,7 @@ class caranet(nn.Module):
         
         # ------------------- atten-two -----------------------      
         decoder_3 = F.interpolate(x_3, scale_factor=2, mode='bilinear')
-        cfp_out_2 = self.CFP_3(x3_rfb) # 32 - 32
+        cfp_out_2 = self.CFP_2(x3_rfb) # 32 - 32
         decoder_3_ra = -1*(torch.sigmoid(decoder_3)) + 1
         aa_atten_2 = self.aa_kernel_2(cfp_out_2)
         aa_atten_2_o = decoder_3_ra.expand(-1, 32, -1, -1).mul(aa_atten_2)
