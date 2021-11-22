@@ -22,7 +22,7 @@ class self_attn(nn.Module):
         self.value_conv = Conv(in_channels, in_channels, kSize=(1, 1),stride=1,padding=0)
 
         self.gamma = nn.Parameter(torch.zeros(1))
-        self.softmax = nn.Sigmoid()
+        self.sigmoid = nn.Sigmoid()
     def forward(self, x):
         batch_size, channel, height, width = x.size()
 
@@ -38,7 +38,7 @@ class self_attn(nn.Module):
         projected_key = self.key_conv(x).view(*view)
 
         attention_map = torch.bmm(projected_query, projected_key)
-        attention = self.softmax(attention_map)
+        attention = self.sigmoid(attention_map)
         projected_value = self.value_conv(x).view(*view)
 
         out = torch.bmm(projected_value, attention.permute(0, 2, 1))
