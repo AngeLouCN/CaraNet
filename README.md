@@ -119,10 +119,5 @@ The difference between results of CaraNet and PraNet:
   year={2021}
 }
 
-@article{lou2021cfpnet,
-  title={CFPNet: Channel-wise Feature Pyramid for Real-Time Semantic Segmentation},
-  author={Lou, Ange and Loew, Murray},
-  journal={arXiv preprint arXiv:2103.12212},
-  year={2021}
-}
+@INPROCEEDINGS{9506485,  author={Lou, Ange and Loew, Murray},  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},   title={CFPNET: Channel-Wise Feature Pyramid For Real-Time Semantic Segmentation},   year={2021},  volume={},  number={},  pages={1894-1898},  doi={10.1109/ICIP42928.2021.9506485}}
 ```
