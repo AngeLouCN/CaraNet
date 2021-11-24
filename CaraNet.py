@@ -132,7 +132,7 @@ class caranet(nn.Module):
 
 
 if __name__ == '__main__':
-    ras = cfpnet_res2net_v4().cuda()
+    ras = caranet().cuda()
     input_tensor = torch.randn(1, 3, 352, 352).cuda()
 
     out = ras(input_tensor)
