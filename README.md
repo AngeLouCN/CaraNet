@@ -8,10 +8,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/caranet-context-axial-reverse-attention/medical-image-segmentation-on-cvc-colondb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-colondb?p=caranet-context-axial-reverse-attention)
 
 <div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/caranet.jpg" width="1000" height="450" alt="Result"/></div>
-This repository contains the implementation of a novel attention based network (CaraNet) to segment the polyp (CVC-T, CVC-ClinicDB, CVC-ColonDB, ETIS and Kvasir) and brain tumor (BraTS). The CaraNet show great overall segmentation performance (mean dice) on polyp and brain tumor, but also show great performance on small medical objects (small polyps and brain tumors) segmentation.  
-
-
-**:fire: NEWS :fire:**
+This repository contains the implementation of a novel attention based network (CaraNet) to segment the polyp (CVC-T, CVC-ClinicDB, CVC-ColonDB, ETIS and Kvasir) and brain tumor (BraTS). The CaraNet show great overall segmentation performance (mean dice) on polyp and brain tumor, but also show great performance on small medical objects (small polyps and brain tumors) segmentation.  **:fire: NEWS :fire:**
 **The full paper is available:** [CaraNet](https://arxiv.org/ftp/arxiv/papers/2108/2108.07368.pdf)
 
 ## Architecture of CaraNet
