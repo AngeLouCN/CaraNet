@@ -113,14 +113,18 @@ The difference between results of CaraNet and PraNet:
 
 ## Citation
 ```
-@article{lou2021caranet,
-  title={CaraNet: Context Axial Reverse Attention Network for Segmentation of Small Medical Objects},
-  author={Lou, Ange and Guan, Shuyue and Loew, Murray},
-  journal={arXiv preprint arXiv:2108.07368},
-  year={2021}
-}
+@inproceedings{lou2021caranet,
+author = {Ange Lou and Shuyue Guan and Hanseok Ko and Murray H. Loew},
+title = {{CaraNet: context axial reverse attention network for segmentation of small medical objects}},
+volume = {12032},
+booktitle = {Medical Imaging 2022: Image Processing},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {81 -- 92},
+year = {2022},
+doi = {10.1117/12.2611802}}
 
-@INPROCEEDINGS{9506485,
+@inproceedings{9506485,
   author={Lou, Ange and Loew, Murray},
   booktitle={2021 IEEE International Conference on Image Processing (ICIP)}, 
   title={CFPNET: Channel-Wise Feature Pyramid For Real-Time Semantic Segmentation}, 
