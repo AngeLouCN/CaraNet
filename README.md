@@ -22,7 +22,7 @@ We choose our CFP module as context module, and choose the dilation rate is **8*
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet/blob/main/figures/cfp module.png" width="800" height="300" alt="Result"/></div>
 
 ### Axial Reverse Attention
-As shown in architecture of CaraNet, the Axial Reverse Attention (A-RA) module contains two routes: 1) Reverse attention; 2) Axial-attention.
+As shown in architecture of CaraNet, the Axial Reverse Attention (A-RA) module contains two routes: 1) Reverse attention; 2) Axial-attention (The code of axial attention is applied from [UACANET](https://github.com/plemeri/UACANet))
 
 ## Installation & Usage
 ### Enviroment
