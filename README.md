@@ -74,7 +74,7 @@ git clone https://github.com/AngeLouCN/CaraNet
   
 ## Segmentation Results
 + Polyp Segmentation Results
-<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/results_all.jpg" width="800" height="650" alt="Result"/></div>
+<div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/results_all.jpg" width="700" height="750" alt="Result"/></div>
 
 + Conditions of test datasets:
 <div align=center><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/testconditions.PNG" width="600" alt="Result"/></div>
