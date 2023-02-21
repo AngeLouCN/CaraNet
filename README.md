@@ -12,6 +12,8 @@ This repository contains the implementation of a novel attention based network (
   
 **:fire: NEWS :fire:**
 **The full paper is available:** [CaraNet](https://arxiv.org/ftp/arxiv/papers/2108/2108.07368.pdf)
+
+
 **The journal version is available:** [CaraNet](https://arxiv.org/ftp/arxiv/papers/2301/2301.13366.pdf)
 
 ## Architecture of CaraNet
