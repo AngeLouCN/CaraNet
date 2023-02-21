@@ -113,7 +113,7 @@ The difference between results of CaraNet and PraNet:
 <div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/BraTS_dice.png" width="600" alt="Result"/></div>
 
 ## Citation
-**If you think our work is helpful, please cite both conference and journal version**
+**If you think our work is helpful, please cite both conference and journal version.**
 ```
 @inproceedings{lou2021caranet,
 author = {Ange Lou and Shuyue Guan and Hanseok Ko and Murray H. Loew},
