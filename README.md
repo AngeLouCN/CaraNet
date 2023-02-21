@@ -12,6 +12,7 @@ This repository contains the implementation of a novel attention based network (
   
 **:fire: NEWS :fire:**
 **The full paper is available:** [CaraNet](https://arxiv.org/ftp/arxiv/papers/2108/2108.07368.pdf)
+**The journal version is available:** [CaraNet](https://arxiv.org/ftp/arxiv/papers/2301/2301.13366.pdf)
 
 ## Architecture of CaraNet
 ### Backbone
@@ -112,6 +113,7 @@ The difference between results of CaraNet and PraNet:
 <div align=left><img src="https://github.com/AngeLouCN/CaraNet/blob/main/figures/BraTS_dice.png" width="600" alt="Result"/></div>
 
 ## Citation
+**If you think our work is helpful, please cite both conference and journal version**
 ```
 @inproceedings{lou2021caranet,
 author = {Ange Lou and Shuyue Guan and Hanseok Ko and Murray H. Loew},
@@ -133,4 +135,15 @@ doi = {10.1117/12.2611802}}
   number={},
   pages={1894-1898},
   doi={10.1109/ICIP42928.2021.9506485}}
+  
+@article{lou2023caranet,
+  title={CaraNet: context axial reverse attention network for segmentation of small medical objects},
+  author={Lou, Ange and Guan, Shuyue and Loew, Murray},
+  journal={Journal of Medical Imaging},
+  volume={10},
+  number={1},
+  pages={014005},
+  year={2023},
+  publisher={SPIE}
+}
 ```
