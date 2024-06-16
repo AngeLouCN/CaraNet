@@ -69,7 +69,7 @@ git clone https://github.com/AngeLouCN/CaraNet
 ### Evaluation 
   + Change the image_root and gt_root in eval_Kvasir.py
   + You can also run the matlab code in eval fold, it contains other four measurement metrics results.
-  + You can download the segmentation maps of CaraNet from this link: [CaraNet](https://drive.google.com/drive/folders/1nk9PDDYCTyfgyztq80vzQ2f4-TwNwR7m?usp=sharing)
+  + You can download the segmentation maps of CaraNet from this link: [CaraNet](https://drive.google.com/file/d/1-tETHh3D_eqs96B1WbpmFAUqBMATwRbE/view?usp=sharing)
   + ```dice_average.m``` is to compute the averaged dice values according to sizes of objects, for small area analysis.
   
 ## Segmentation Results
